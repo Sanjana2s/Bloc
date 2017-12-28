@@ -1,1 +1,1 @@
-# Hello there, I'm learning html, CSS, Javascript.
+# Hello there, I'm learning Web Developement.
